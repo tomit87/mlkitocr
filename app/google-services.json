@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "470067453300",
+    "firebase_url": "https://fir-tutorial-1099.firebaseio.com",
+    "project_id": "firebase-tutorial-1099",
+    "storage_bucket": "firebase-tutorial-1099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470067453300:android:85ac13a6a955ead8092021",
+        "android_client_info": {
+          "package_name": "co.teltech.mlkitocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470067453300-opu3c5n6708ndrpt76jumjjj1rauttlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7bxLcA-TXQwyYjvU1k4bA40eVGKIJryE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470067453300-opu3c5n6708ndrpt76jumjjj1rauttlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470067453300:android:693c00b96c712e8c",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470067453300-opu3c5n6708ndrpt76jumjjj1rauttlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7bxLcA-TXQwyYjvU1k4bA40eVGKIJryE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470067453300-opu3c5n6708ndrpt76jumjjj1rauttlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
